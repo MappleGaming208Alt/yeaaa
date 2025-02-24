@@ -1,5 +1,5 @@
 # Shuttle V3
-### Shittle V3 bext proxy ever 🔥🔥🔥
+### Shittle V3 bext ever 🔥🔥🔥
 
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://github.com/shuttlenetwork/shuttle/wiki#how-to-deploy-to-onrender)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/shuttlenetwork/shuttle)
@@ -17,10 +17,10 @@
 ## Setup
 
 ```sh
-git clone https://github.com/shuttlenetwork/shuttle.git
+git clone https://github.com/MappleGaming208Alt/yeaaa.git
 cd shuttle
 npm install
 npm start
 ```
 ## Info 
-- If you are running this site on replit or other hosting platform that bans proxies, use [Shuttle Lite](https://github.com/shuttlenetwork/shuttle-lite)
+- If you are running this site on replit or other hosting platform that bans, use [Shuttle Lite](https://github.com/shuttlenetwork/shuttle-lite)
