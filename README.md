@@ -18,7 +18,7 @@
 
 ```sh
 git clone https://github.com/MappleGaming208Alt/yeaaa.git
-cd shuttle
+cd yeaaa
 npm install
 npm start
 ```
