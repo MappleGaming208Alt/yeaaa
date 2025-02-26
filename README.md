@@ -17,8 +17,6 @@
 ## Setup
 
 ```sh
-npm install express basic-auth
-npm install dotenv
 git clone https://github.com/MappleGaming208Alt/yeaaa.git
 cd yeaaa
 npm install
